@@ -14,6 +14,7 @@ python3 modbus_kraftwerk.py
 python3 modbus_killer_manual_ip.py
 
 Start the tools, define ip address of the modbus slave and set the lower and upper register address of the address range (0 and 9 recommended).
+I recommend using ModbusPal as a modbus slave.
 
 Tested successfuly in Windows and Linux.
 
